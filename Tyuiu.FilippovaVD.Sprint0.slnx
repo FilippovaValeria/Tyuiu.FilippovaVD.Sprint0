@@ -1,0 +1,13 @@
+<Solution>
+  <Folder Name="/Task0/">
+    <Project Path="Tyuiu.FilippovaVD.Sprint0.Task0.V0/Tyuiu.FilippovaVD.Sprint0.Task0.V0.csproj" />
+  </Folder>
+  <Folder Name="/Task1/">
+    <Project Path="Tyuiu.FilippovaVD.Sprint0.Task1.V0/Tyuiu.FilippovaVD.Sprint0.Task1.V0.csproj" />
+  </Folder>
+  <Folder Name="/Task2/">
+    <Project Path="Tyuiu.FilippovaVD.Sprint0.Task2.V0.Lib/Tyuiu.FilippovaVD.Sprint0.Task2.V0.Lib.csproj" />
+    <Project Path="Tyuiu.FilippovaVD.Sprint0.Task2.V0.Test/Tyuiu.FilippovaVD.Sprint0.Task2.V0.Test.csproj" />
+    <Project Path="Tyuiu.FilippovaVD.Sprint0.Task2.V0/Tyuiu.FilippovaVD.Sprint0.Task2.V0.csproj" />
+  </Folder>
+</Solution>
